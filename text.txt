@@ -1,3 +1,7 @@
 this is commit commit
 
+<<<<<<< HEAD
 Branch one change
+=======
+this is branch two
+>>>>>>> two
